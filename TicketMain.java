@@ -1,5 +1,5 @@
 /**
- * A main method to test the Ticket classes.
+ * WEEEEEELINGTOOOOON
  *
  * @author David Herring
  * @version 2/8/18
